@@ -20,7 +20,7 @@ public class exercise_2_6 {
         int hundreds = number % 10;
         number /= 10;
         int total = hundreds * tens * less10;
-        System.out.println("The sum of the digits in " + temp +  " is " + total);
+        System.out.println("The product of the digits in " + temp +  " is " + total);
 
     }
 }
