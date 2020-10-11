@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class exercise_2_3 {
     public static void main(String[] args) {
         /*
-        (Convert meters into feet) Write a program that reads a number in meters, converts
+       3.5  (Convert meters into feet) Write a program that reads a number in meters, converts
         it to feet, and displays the result. One meter is 3.2786 feet
          */
         //Convert meters into feet
